@@ -16,4 +16,4 @@ domain independent path planning, optimization techniques (simulated annealing) 
 - Domain-Independent Planner
 - Hidden Markov Models
 
-Rest of the projects aren't uploaded, because of unclear ownership of the supllementary code.
+Rest of the projects aren't uploaded, because of unclear ownership of the supplementary code.
